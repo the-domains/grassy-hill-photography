@@ -1,12 +1,39 @@
-layout_spectrum: 0.5053706
-typography_spectrum: 0.1170247
+name: 'Grassy Hill Photography '
+favicon: null
+layout_spectrum: 0.5698174
+typography_spectrum: 0.3786251
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Grassy Hill Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5075188
-  lightness: 0.4119226
-  brandStrength: 0.6267455
   brandColors:
     - '#033003'
     - '#547730'
     - '#A39A5C'
-  rhythmicContrast: 0.5601504
-name: 'Grassy Hill Photography '
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.3195489
+  rhythmicContrast: 1
+purpose: []
